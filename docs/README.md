@@ -32,4 +32,5 @@ Key recurring practices across all process documents include:
 | [Risks & Communication](octoacme-risks-and-communication.md) | Risk lifecycle, stakeholder communication templates, weekly status format, and escalation paths. |
 | [Release & Deployment](octoacme-release-and-deployment.md) | Release types, pre-release requirements, deployment checklist, rollback playbook, and release notes template. |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective structure, running guidelines, action item tracking, and continuous improvement culture. |
-| [Roles & Personas](octoacme-roles-and-personas.md) | Detailed responsibilities, goals, and typical communication patterns for Developers, Product Managers, and Project Managers. |
+| [Roles & Personas](octoacme-roles-and-personas.md) | Detailed responsibilities, goals, and typical communication patterns for Developers, Product Managers, Project Managers, Project Sponsors, Change Managers, Technical Leads, QA Analysts, and Subject Matter Experts (SMEs). See also the [RACI Matrix](octoacme-raci-matrix.md). |
+| [RACI Matrix](octoacme-raci-matrix.md) | Role-by-activity accountability matrix covering all OctoAcme roles across the full project lifecycle. |
